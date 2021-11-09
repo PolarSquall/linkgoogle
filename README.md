@@ -1,1 +1,1 @@
-# [https://www.google.com/](url)
+# [www.google.com](url)
